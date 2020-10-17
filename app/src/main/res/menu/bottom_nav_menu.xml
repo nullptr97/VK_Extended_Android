@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/ic_newsfeed_outline_28"
+        android:title="Новости" />
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/ic_services_outline_28"
+        android:title="Меню" />
+
+    <item
+        android:id="@+id/navigation_messages"
+        android:icon="@drawable/ic_message_outline_28"
+        android:title="Сообщения" />
+
+    <item
+        android:id="@+id/navigation_friends"
+        android:icon="@drawable/ic_users_outline_28"
+        android:title="Друзья" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_user_circle_outline_28"
+        android:title="Профиль" />
+
+</menu>
